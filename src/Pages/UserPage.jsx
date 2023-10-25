@@ -4,8 +4,6 @@ import { Button } from 'primereact/button';
 import { Dialog } from 'primereact/dialog';
 import axios from "axios";
 
-
-
 const UserPage = () => {
     const [userDetails, setUserDetails] = useState([]);
     const [foundUser, setFoundUser] = useState([])
