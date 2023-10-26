@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { PasswordInput, InputArea, DropdownBox } from "../Components/Inputs";
-import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
