@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { PasswordInput, InputArea, DropdownBox } from "../Components/Inputs";
 import { Button } from 'primereact/button';
-import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import nupsgLogo from '../Assets/nupsgLogo.png'
 import akuafoLogo from '../Assets/akuafoLogo.png'
